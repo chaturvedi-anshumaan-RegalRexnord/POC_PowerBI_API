@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZOXdLCFdET767Mp14Kdm4LP1DzmdtgguwUnu30/o8OKExZb/9M6I/AwKV+ZwAYCiVOxFRGJaDUscrYJVWpFcXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\610153006\\Documents\\Project Documents\\POCs_On_CSS_Frameworks\\POC_PowerBI_API\\AppOwnsData\\AppOwnsData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\610153006\\.nuget\\packages\\microsoft.identity.client\\4.21.0\\microsoft.identity.client.4.21.0.nupkg.sha512",
+    "C:\\Users\\610153006\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\610153006\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\610153006\\.nuget\\packages\\microsoft.powerbi.api\\3.21.0\\microsoft.powerbi.api.3.21.0.nupkg.sha512",
+    "C:\\Users\\610153006\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.21\\microsoft.rest.clientruntime.2.3.21.nupkg.sha512",
+    "C:\\Users\\610153006\\.nuget\\packages\\microsoft.web.librarymanager.build\\2.1.76\\microsoft.web.librarymanager.build.2.1.76.nupkg.sha512",
+    "C:\\Users\\610153006\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\610153006\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\610153006\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\610153006\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\610153006\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\610153006\\.nuget\\packages\\system.runtime.loader\\4.3.0\\system.runtime.loader.4.3.0.nupkg.sha512",
+    "C:\\Users\\610153006\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "C:\\Users\\610153006\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\610153006\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
